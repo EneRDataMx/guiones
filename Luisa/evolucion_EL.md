@@ -5,5 +5,5 @@ Cómo vamos en % de producción de energía con el acuerdo de París ?
 1. Intro al acuerdo de París, a que % de EL debemos llegar 
 2. Figura 1: evolución en % de las EL del 2015 a 2020
 3. Cuales son las Energías Limpias y cuales son las ER
-4. Figura 2, de las EL, cual es el % de ER en 2020
-5. Cual ha sido el crecimiento de las ER Fig 3 del 2015 a 2020
+4. Figura 2, Cual es la  cantidad generada de ER en 2020
+5. Si el acuerdo de París considerara solo las ER estariamos muy lejos.
